@@ -7,3 +7,4 @@ Used technologies:
 - Ajax;
 - HTML 5;
 - CSS 3;
+- Bootstrap 3/4;
