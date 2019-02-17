@@ -1,1 +1,6 @@
-static/* linguist-vendored
+special-vendored-path/* linguist-vendored
+js/jquery.js linguist-vendored=false
+js/bootstrap.min.js linguist-vendored=false
+js/wow.js linguist-vendored=false
+admin_panel/js/quill/* linguist-vendored
+
